@@ -7,6 +7,7 @@ body{
 	height: 100vh;
 	background: #aee9f1;
 	background: linear-gradient(139deg,#050505cb 0%,#020202b6 90%);
+	background-image: url(https://images.pexels.com/photos/1146134/pexels-photo-1146134.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 }
 .container{
 	position: relative;
